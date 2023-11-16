@@ -1,4 +1,4 @@
-# [Work in progress] Quantum chemistry applications: from classical to quantum
+# [Work in progress] The Ground State Energy: from Hartree-Fock to the Variational Quantum Eigensolver
 ## ICCAD - What I learned during qccontest
 
 This folder contains useful information I found during the qccontest regarding building and optimizing a vqe algorithm for the ICCAD QCContest (https://qccontest.github.io/QC-Contest/index.html). The problem was finding the ground state energy for the OH radical. Moreover, it contains additional information and implementation for the hartree fock algorithm.
